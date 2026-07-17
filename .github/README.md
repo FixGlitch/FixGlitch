@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[[https://pbs.twimg.com/profile_images/1646210628745412623/hJIAIcrf_400x400.jpg](https://media.licdn.com/dms/image/v2/D4D03AQHuHeWgBgoTFQ/profile-displayphoto-scale_200_200/B4DZy3YXwYI8AY-/0/1772603147665?e=1785974400&v=beta&t=kC1vof5Gx-3-Db4ckuIsDjhg_3Tf4RWJ86WTOWKM998)](https://avatars.githubusercontent.com/u/126288618?v=4)" height="150" style="border-radius: 50%; border: 3px solid #333;" alt="Lucas Blanco Profile Picture" />
+  <img src="https://avatars.githubusercontent.com/u/126288618?v=4" height="150" style="border-radius: 50%; border: 3px solid #333;" alt="Lucas Blanco Profile Picture" />
   <h1>Hi, I'm Lucas Blanco! 👋</h1>
   <h3>Frontend / Fullstack Software Developer</h3>
   <p>📍 Argentina | 🎓 Universidad de Buenos Aires | 💼 6+ years of experience</p>
